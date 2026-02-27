@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.joindevops.online
+mongodb.quadari.in
 
 [catalogue]
-catalogue.joindevops.online
+catalogue.quadari.in
 
 [web]
-web.joindevops.online
+web.quadari.in
 
 [redis]
-redis.joindevops.online
+redis.quadari.in
 
 [user]
-user.joindevops.online
+user.quadari.in
 
 [cart]
-cart.joindevops.online
+cart.quadari.in
 
 [mysql]
-mysql.joindevops.online
+mysql.quadari.in
 
 [shipping]
-shipping.joindevops.online
+shipping.quadari.in
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.quadari.in
 
 [payment]
-payment.joindevops.online
+payment.quadari.in
